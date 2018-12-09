@@ -4,7 +4,7 @@ generator repository laravel 5.*
 Install
 
 ``` bash
-$ composer require kingdarkness/k-repository
+$ composer require daolvcntt/generator
 ```
 
 Edit your `AppServiceProvider` to add the following to the `register` method:
